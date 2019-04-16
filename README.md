@@ -2,18 +2,20 @@
 
 Made by Victor Antonio Menuzzo and Paula Giovanna Rodrigues(gitlab.com/paula_portfolio)
 
-1-para rodar o arquivo de visualização dos superpixels com mascara para
-identificarmos o rótulo de cada superpixel abra o terminal do linux e digite:
-python identificaSP.py --image [local e nome da imagem]
-após o --image tem que ser informado o nome exato da imagem
+### To run the superpixels identification file with mask (know the label of each superpixels):
+```
+python identificaSP.py --image [local and image name]
+```
+after --image write exactly the location of the image
 
-2-para rodar o arquivo que extrai as features que serão inseridas no banco de
-dados, coloque dentro do vetor de fundo, prato, alimentos os rotulos obtidos e
-escreva no terminal do linux:
+### To run the feature extract file change these vectors(fundo, prato and alimentos) with the labels obtained:
+```
 python criaDados.py
-lembre de fornecer o nome da imagem dentro do código
+```
+remember to provide the name of the image inside the code
 
-3-para rodar o arquivo de classificação forneça a imagem de teste no código e
-digite no terminal do linux:
+### To run the classifier file:
+```
 python classifica.py
-
+```
+remember to provide the name of the image(test image) inside the code
