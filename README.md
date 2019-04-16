@@ -1,6 +1,6 @@
 # identifyfood
 
-Made by Victor Antonio Menuzzo and Paula Giovanna Rodrigues
+Made by Victor Antonio Menuzzo and Paula Giovanna Rodrigues(gitlab.com/paula_portfolio)
 
 1-para rodar o arquivo de visualização dos superpixels com mascara para
 identificarmos o rótulo de cada superpixel abra o terminal do linux e digite:
