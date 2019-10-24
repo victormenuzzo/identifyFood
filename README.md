@@ -1,6 +1,6 @@
 # identifyfood
 
-Made by Victor Antonio Menuzzo and Paula Giovanna Rodrigues(gitlab.com/paula_portfolio)
+Done by Victor Antonio Menuzzo and Paula Giovanna Rodrigues(gitlab.com/paula_portfolio)
 
 ### To run the superpixels identification file with mask (know the label of each superpixels):
 ```
